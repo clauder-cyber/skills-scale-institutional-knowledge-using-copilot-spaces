@@ -1,16 +1,26 @@
-# Scale institutional knowledge using Copilot Spaces
+# OctoAcme Project Management Docs
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+This repository contains the core project management process documents used by OctoAcme. The documentation provides a practical, repeatable framework for initiating, planning, delivering, communicating, releasing, and improving project work across cross-functional teams.
 
-Hey clauder-cyber!
+## Project management process summary
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+OctoAcme’s project management approach starts with project initiation, where teams validate the business need, clarify the problem statement, define success metrics, identify stakeholders, and create a lightweight one-pager that captures goals, risks, timeline, and role needs. Once the initiative is approved, the team moves into planning, defining scope, priorities, milestones, dependencies, backlog items, and a clear Definition of Done. Execution and tracking focus on day-to-day work management through standups, weekly delivery syncs, milestone reviews, and structured blocker escalation so progress remains visible and aligned with project goals.
 
-Remember, it's self-paced so feel free to take a break! ☕️
+The process is built around clearly defined personas and responsibilities. Product managers own outcomes and prioritization, project managers coordinate schedules, communication, and risk management, developers deliver the implementation and tests, QA validates quality and acceptance criteria, and stakeholders provide input and approvals. Communication is intentionally regular and transparent: weekly updates, team standups, stakeholder check-ins, and risk escalation paths keep work moving while maintaining a single source of truth for status and decisions.
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/clauder-cyber/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
+Quality is treated as part of delivery rather than a final step. Acceptance criteria, CI checks, unit and integration tests, security scans, smoke tests, and release checklists help reduce risk and improve reliability. The process also emphasizes learning and continuous improvement through retrospectives after sprints, milestones, or incidents, capturing lessons learned and converting them into action items with owners and timelines.
 
----
+## Documentation links
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+- [Project Management Overview](docs/octoacme-project-management-overview.md)
+- [Project Initiation](docs/octoacme-project-initiation.md)
+- [Project Planning](docs/octoacme-project-planning.md)
+- [Execution & Tracking](docs/octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](docs/octoacme-risks-and-communication.md)
+- [Release & Deployment](docs/octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md)
+- [Roles & Personas](docs/octoacme-roles-and-personas.md)
 
+## How to use these docs
+
+Use the overview document as a starting point, then move into the specific guide that matches the stage of your project. The docs are intended to be practical and reusable for both new work and ongoing delivery, helping teams maintain clarity, rhythm, and accountability throughout the project lifecycle.
